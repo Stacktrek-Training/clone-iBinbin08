@@ -1,6 +1,6 @@
 <h2>Youtube Website Clone<h2>
 
-Requirements: <br>
-✅ Must have least 3 custom components <br>
-✅ Must have an array of objects (under construction) <br>
-✅ Must use the array of objects to display data under construction) <br>
+  <p>Requirements:</p><br>
+  <p>✅ Must have least 3 custom components</p><br>
+  <p>✅ Must have an array of objects (under construction)</p><br>
+  <p>✅ Must use the array of objects to display data under construction)</p><br>
