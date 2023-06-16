@@ -1,4 +1,6 @@
-# clone-iBinbin08
-clone-iBinbin08 created by GitHub Classroom
+Youtube Website Clone
 
-Youtube Clone
+Requirements:
+✅ Must have least 3 custom components
+✅ Must have an array of objects (under construction)
+✅ Must use the array of objects to display data under construction)
